@@ -1,4 +1,5 @@
 # CAD AutoLISP Utilities
 
 ## Included Tools
-- mpdf: 도곽/표지 블록 일괄 PDF 출력
+- mpdf : 다중플롯(도곽/표지 블록 일괄 PDF 출력)
+- el   : Excel to Cad (엑셀 표를 캐드로)
